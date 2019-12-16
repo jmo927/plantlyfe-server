@@ -1,4 +1,4 @@
-# PlantLyfe
+# PlantLyfe (Server)
 
 This is the server-side code of the PlantLyfe Plant Watering Scheduler. 
 The client-side code can be found [here](https://github.com/jmo927/plantlyfe-client).
